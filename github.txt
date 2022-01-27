@@ -1,0 +1,22 @@
+GIT-Linus Torvalds
+Verison Control System 
+
+Github Web-based hosting Service for software code
+
+It is a collaborative tool which helps multiple users 
+to work on a single project without much difficulties' 
+
+
+Basic GitHiub Terminologies
+
+1.Repository
+1.a.Folder Contains all the files related to a project
+2.Read me File(basic instructon about the proj)
+3.Commit (Saving State)
+
+Advance GitHub Technology
+
+4.Branch
+5.Merge
+6.Fork
+7.pull Request
